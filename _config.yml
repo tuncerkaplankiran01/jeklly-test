@@ -1,0 +1,32 @@
+# Dependencies
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'ozgur batur'
+tagline:          ''
+description:      'A developer blog'
+url:              'http://ozgurbatur.com'
+baseurl:          ''
+host:             'localhost'
+
+author:
+  name:           'H. Ozgur Batur'
+  url:            https://twitter.com/ozgurbtr
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/ozgurbtr/ozgurbtr.github.io
+
+social:
+  github:         https://github.com/ozgurbtr
+  linkedin:       https://www.linkedin.com/in/ozgurbtr/
+  twitter:        https://twitter.com/ozgurbtr
+
+gems:             [jekyll-paginate, rouge, jekyll-gist]
